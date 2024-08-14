@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #300301;
+    background-color: #013013;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -97,7 +97,7 @@
 }
 
 .rodapé{
-    background-color: #000000;
+    background-color: #09ff00;
     color: #5cab81;
     font-size: 20px;
     display: flex;
