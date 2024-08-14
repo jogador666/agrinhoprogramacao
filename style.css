@@ -70,7 +70,7 @@
 }
 
 .equipe {
-    background-color: #cd5f05db;
+    background-color: #39ff5adb;
     color: white;
 }
 
@@ -97,8 +97,8 @@
 }
 
 .rodapé{
-    background-color: #300301;
-    color: #960903;
+    background-color: #000000;
+    color: #5cab81;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
