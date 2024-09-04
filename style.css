@@ -84,7 +84,7 @@
 
 .equipe-div {
     text-align: center;
-    padding: 16px 0;
+    padding: 10px 0;
 }
 
 .equipe-título{
@@ -93,7 +93,7 @@
 
 .equipe-div-todos {
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 10% 10% 10% 10% 10%;
 }
 
 .rodapé{
