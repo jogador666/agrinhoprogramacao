@@ -94,7 +94,7 @@
 .equipe-div-todos {
     display: grid;
     grid-template-columns: 20% 10% 10% 10% 10%;
-}   text-align  center 
+}    
 
 .rodapé{
     background-color: #09ff00;
